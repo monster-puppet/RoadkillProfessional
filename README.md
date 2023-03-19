@@ -1,2 +1,1 @@
-# RoadkillProfessional
-Roadkill Professional for Maya
+# Repository moved [here](https://github.com/monster-puppet/RoadKill)
